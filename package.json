@@ -1,0 +1,17 @@
+{
+  "name": "kamijean-node",
+  "version": "1.0.0",
+  "description": "KamiJean",
+  "main": "index.js",
+  "directories": {
+    "example": "examples",
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "KamiJean",
+  "license": "ISC"
+}
